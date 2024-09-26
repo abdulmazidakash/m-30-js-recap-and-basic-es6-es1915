@@ -1,3 +1,7 @@
+//for use on array or string not in object 
+//for in use on object
+
+
 const numbers = [354, 64,56 ,545];
 
 // for(let i = 0; i < numbers.length; i++){
